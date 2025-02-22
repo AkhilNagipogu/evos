@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Evos
+Description=A Plymouth theme for Evos
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/evos
+ScriptFile=/usr/share/plymouth/themes/evos/evos.script
